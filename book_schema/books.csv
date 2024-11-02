@@ -1,0 +1,52 @@
+id,title,pagecount,genre,authorid,pubid
+1,The Mystery of the Lost Village,320,Mystery,1,1
+2,Adventures in Wonderland,280,Fantasy,2,2
+3,The Science of Tomorrow,400,Science,3,3
+4,Cooking with Love,150,Cooking,4,4
+5,Journey to the West,500,Adventure,5,5
+6,History of the Ancient World,600,History,6,6
+7,The Art of War,200,Philosophy,7,7
+8,Modern Economics,450,Economics,8,8
+9,Understanding Psychology,350,Psychology,9,9
+10,The Great Gatsby,180,Classic,10,10
+11,Deep Space Exploration,420,Science Fiction,11,11
+12,Learning to Code,250,Technology,12,12
+13,The World of Plants,300,Biology,13,13
+14,Mastering Chess,220,Sports,14,14
+15,Poems of the Heart,100,Poetry,15,15
+16,The Universe in a Nutshell,280,Science,16,16
+17,Financial Freedom,330,Finance,17,17
+18,Art Through the Ages,370,Art,18,18
+19,The Book of Fairy Tales,260,Fantasy,19,19
+20,Modern Architecture,290,Architecture,20,20
+21,The Secret Garden,210,Children,21,21
+22,Philosophy 101,310,Philosophy,22,22
+23,Advanced Mathematics,480,Mathematics,23,23
+24,World Geography,360,Geography,24,24
+25,The Life of Leonardo da Vinci,340,Biography,25,25
+26,Digital Photography,230,Photography,26,26
+27,Healthy Living,190,Health,27,27
+28,The Rise and Fall of Empires,550,History,28,28
+29,Understanding Climate Change,380,Environment,29,29
+30,The Art of Negotiation,270,Business,30,30
+31,Creative Writing,240,Education,31,31
+32,The Jazz Age,310,Music,32,32
+33,Exploring the Oceans,330,Nature,33,33
+34,Mindfulness and Meditation,210,Self-Help,34,34
+35,The Chronicles of Time,450,Fantasy,35,35
+36,Astronomy for Beginners,290,Science,36,36
+37,The World of Insects,260,Biology,37,37
+38,Leadership Principles,320,Business,38,38
+39,The Human Body Explained,370,Medical,39,39
+40,The Wonders of the Universe,410,Science,40,40
+41,Traveling the Globe,280,Travel,41,41
+42,Building a Startup,340,Business,42,42
+43,Learning Spanish,200,Education,43,43
+44,Gardening Basics,220,Hobby,44,44
+45,Exploring World Religions,360,Religion,45,45
+46,The History of Jazz,310,Music,46,46
+47,Modern Poetry,150,Poetry,47,47
+48,Ancient Mythology,330,Mythology,48,48
+49,The Science of Happiness,250,Psychology,49,49
+50,Advanced Physics,500,Science,50,50
+51,Invisible Man,581,Novel,52,
